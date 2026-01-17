@@ -26,6 +26,7 @@ Automated workflow system that processes candidate interview data, splits multi-
    - 15 fields auto-created
    - Split records (one per round)
    - All data cleaned and structured
+**Invite Link**- https://airtable.com/invite/l?inviteId=invcYhH9YYrJ8WrV8&inviteToken=ea1bcb36f26376b9384b808bd1019fbb69efe1a0311be669d19f89fd279d6121&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 
 2. **Data Splitting Script**: `src/roundSplitter.ts` + orchestration in `src/index.ts`
 
